@@ -18,7 +18,6 @@ import FormatItalicIcon from '@mui/icons-material/FormatItalic';
 import FormatUnderlinedIcon from '@mui/icons-material/FormatUnderlined';
 import FormatListBulletedIcon from '@mui/icons-material/FormatListBulleted';
 import FormatListNumberedIcon from '@mui/icons-material/FormatListNumbered';
-import CodeIcon from '@mui/icons-material/Code';
 import FormatIndentIncreaseIcon from '@mui/icons-material/FormatIndentIncrease';
 import FormatIndentDecreaseIcon from '@mui/icons-material/FormatIndentDecrease';
 import FormatAlignLeftIcon from '@mui/icons-material/FormatAlignLeft';
@@ -379,3 +378,4 @@ const PublishBlogPage = () => {
 };
 
 export default PublishBlogPage;
+
